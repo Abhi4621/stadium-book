@@ -75,7 +75,7 @@ npm run dev
 (Tip: You can add your screenshots here after pushing to GitHub by dragging and dropping them into the README editor!)
 
 👤 Author
-Abhi Pandey B.Tech Computer Science & Engineering (AI & ML) - VIT Bhopal
+Abhi Pandey 
 
 📄 License
 This project is for educational purposes as part of a Web Development assignment.
