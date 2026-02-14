@@ -1,4 +1,4 @@
-Features
+## Features
 Sticky Glass Navbar: Dynamic blur and shadow effects on scroll.
 
 Hero Section: High-resolution stadium backdrop with parallax and text-reveal animations.
