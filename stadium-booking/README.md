@@ -69,20 +69,7 @@ Run the development server:
 
 Bash
 npm run dev
-The application will be available at http://localhost:5173.
 
-📂 Project Structure
-Plaintext
-src/
-├── components/
-│   ├── Navbar.jsx        # Sticky glass navigation
-│   ├── Hero.jsx          # Parallax stadium header
-│   ├── Stats.jsx         # Animated counter section
-│   ├── Features.jsx      # Glassmorphism feature cards
-│   └── BookingForm.jsx   # Interactive reservation portal
-├── App.jsx               # Main application assembly
-└── index.css             # Tailwind v4 configuration & star animations
-📸 Screenshots
 (Tip: You can add your screenshots here after pushing to GitHub by dragging and dropping them into the README editor!)
 
 👤 Author
