@@ -90,7 +90,7 @@ Once you have saved this as `README.md` in your project folder, follow these ter
 2.  `git add .`
 3.  `git commit -m "feat: complete premium stadium booking landing page"`
 4.  `git branch -M main`
-5.  `git remote add origin https://github.com/your-username/stadium-book-pro.git`
+5.  `git remote add origin (https://github.com/Abhi4621/stadium-book.git)`
 6.  `git push -u origin main`
 
 **Would you like me to generate the professional "About the Project" text for your Linked
